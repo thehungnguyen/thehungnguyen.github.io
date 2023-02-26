@@ -64,7 +64,7 @@ html{
     font-size: 30px;
     font-weight: 500;
     /* Khoảng cách của từng chữ tiêu đề */
-    letter-spacing: 10px; 
+    letter-spacing: 5px; 
 }
 
 #content .about{

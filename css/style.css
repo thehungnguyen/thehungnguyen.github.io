@@ -50,7 +50,7 @@ html{
 #content .content-section{
     /* Thiết lập chung cho khung của mỗi content */
     width: 800px;
-    height: 450px;
+    height: 500px;
     padding: 64px 0;
     /* Tự động căn chỉnh trái phải */
     margin-left: auto;
